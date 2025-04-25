@@ -24,7 +24,10 @@ This game was developed in Unity Game Engine. All the 3D models were designed by
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Alt text](./Screenshots/title_screen.png?raw=true "Title screen")
+
+![Alt text](./Screenshots/world_view.png?raw=true "World view")
+
 
 
 ## Demo
